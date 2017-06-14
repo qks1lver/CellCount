@@ -13,7 +13,7 @@ Try it!
 3. Copy and past the location of plate_test.jpg into the "Image Address" box, then click the arrow (Load) next to it
 
 At this point, you should see something like this, but your red and blue circles are still in their original positions
-![](https://raw.githubusercontent.com/qks1lver/CellCount/master/example/cellcount_demo_01.png)
+<img src="https://raw.githubusercontent.com/qks1lver/CellCount/master/example/cellcount_demo_01.png" width="600">
 
 4. To define "Count Area": Move your cursor close to the cross-hair (a small circle around the cross hair will light up to show that you can click now)
 5. click and drag the big red circle to the center of the plate
