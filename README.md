@@ -1,5 +1,6 @@
 # CellCount
 JAVA UI to estimate colonies/plaques on a petri plate
+(Everything looks retro because it was built back in 2009 with default UI LOLOLOL!)
 
 Get it!
 -------
